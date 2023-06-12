@@ -24,4 +24,4 @@
 
 [Twitter]: https://twitter.com/sonoffjord
 [CodeWars]: https://www.codewars.com/users/sonoffjord
-[leetcode]: https://leetcode.com/sonoffjord/
+[leetcode]: https://leetcode.com/SovereignExMachina/

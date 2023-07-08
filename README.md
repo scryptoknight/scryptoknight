@@ -1,8 +1,5 @@
-### Как дела?
-
-Привет, меня зовут Александр. <br>
+Меня зовут Александр. <br>
 Я программист на языке Python со знанием Django, DRF. <br>
-Также я знаком с Python Kivy и имею опыт разработки на этой платформе. <br>
 <hr>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

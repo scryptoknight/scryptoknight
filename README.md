@@ -1,5 +1,3 @@
-Меня зовут Александр. <br>
-Я программист на языке Python со знанием Django, DRF. <br>
 <hr>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,7 +16,5 @@
 [<img align="left" alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />][leetcode]
 
 
-
-[Twitter]: https://twitter.com/sonoffjord
 [CodeWars]: https://www.codewars.com/users/sonoffjord
 [leetcode]: https://leetcode.com/SovereignExMachina/

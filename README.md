@@ -11,7 +11,6 @@
 
 #### Связь и всякое ↓
 
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][Twitter]
 [<img align="left" alt="CodeWars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />][CodeWars]
 [<img align="left" alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />][leetcode]
 
